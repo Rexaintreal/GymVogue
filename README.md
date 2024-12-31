@@ -80,7 +80,8 @@ Interested in helping *GymVogue* grow? Contributions are welcome! Here’s how:
 3. **Commit** your changes.
 4. Open a **Pull Request** with details about your changes.
 
-The codebase is beginner-friendly, with simple HTML, CSS, Flask, and JavaScript components. We're excited to have contributors who can help improve the website, whether through new features, bug fixes, or design enhancements.
+*The codebase is beginner-friendly, with simple HTML, CSS, Flask, and JavaScript components. We're excited to have contributors who can help improve the website, whether through new features, bug fixes, or design enhancements.*
+
 ---
 
 
