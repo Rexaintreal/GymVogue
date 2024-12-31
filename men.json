@@ -1,0 +1,256 @@
+{
+    "men": [
+        {
+            "description": "100% Recycled Polyester Striped Fitted Short Sleeve Collarless Standard Length",
+            "images": [
+                "men/men1img1.jpg",
+                "men/men1img2.jpg",
+                "men/men1img3.jpg",
+                "men/men1img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Adidas-Polyester-CLASSIC-Sports-T-Shirts/dp/B07XL2MWPR/ref=sr_1_3?sr=8-3",
+            "name": "Adidas Men's Striped Fitted T-Shirt Blue",
+            "price": 519
+        },
+        {
+            "description": "Made with soft and rich cotton blend fabric for all-day comfort. Regular fit for a relaxed feel. Comes in multiple colors for various occasions.",
+            "images": [
+                "men/men2img1.jpg",
+                "men/men2img2.jpg",
+                "men/men2img3.jpg",
+                "men/men2img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Scott-International-SS20-3RN-BU-GR-CH-L_Navy-Charcoal-Grey_Large/dp/B084L9DK9H/ref=sr_1_1?sr=8-1",
+            "name": "Scott International Men's Regular Fit T-Shirt - Pack of 3",
+            "price": 399
+        },
+        {
+            "description": "Material composition: Cotton. Pattern: Solid. Slim Fit with short sleeves and collarless design.",
+            "images": [
+                "men/men3img1.jpg",
+                "men/men3img2.jpg",
+                "men/men3img3.jpg",
+                "men/men3img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Puma-Mens-Printed-T-Shirt-670232_Black/dp/B09LH5WCD9/ref=sr_1_11?sr=8-11",
+            "name": "Puma Men's Regular Fit T-Shirt",
+            "price": 799
+        },
+        {
+            "description": "Breathable fabric, quick dry technology, designed for workouts with stretchable microfiber material.",
+            "images": [
+                "men/men4img1.jpg",
+                "men/men4img2.jpg",
+                "men/men4img3.jpg",
+                "men/men4img4.jpg"
+            ],
+            "link": "https://www.amazon.in/MuscleBlaze-Active-Shirt-Sports-Midnight/dp/B0D47MCFNN/ref=sr_1_19?sr=8-19",
+            "name": "MuscleBlaze Active T Shirt for Men",
+            "price": 749
+        },
+        {
+            "description": "Micro polyester, quick dry, superior color fastness, regular fit with a round neckline.",
+            "images": [
+                "men/men5img1.jpg",
+                "men/men5img2.jpg",
+                "men/men5img3.jpg",
+                "men/men5img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Nivia-Regular-Sports-T-Shirt-2205M6_Black/dp/B071NN9XWH/ref=sr_1_26?sr=8-26",
+            "name": "Nivia Step Out & Play Polyester Hydra-1 Fitness Regular Fit Jersey Men's",
+            "price": 279
+        },
+        {
+            "description": "This versatile T-shirt can be styled for a gym-to-street look.",
+            "images": [
+                "men/men6img1.jpg",
+                "men/men6img2.jpg",
+                "men/men6img3.jpg",
+                "men/men6img4.jpg"
+            ],
+            "link": "https://www.myntra.com/tshirts/hrx-by-hrithik-roshan/hrx-by-hrithik-roshan-men-yellow-printed-cotton-pure-cotton-t-shirt/1700944/buy",
+            "name": "Men Yellow Printed Cotton Pure Cotton T-shirt",
+            "price": 279
+        },
+        {
+            "description": "Breathable, ultra-soft and bio-washed 100% cotton T-shirt designed for casual wear.",
+            "images": [
+                "men/men7img1.jpg",
+                "men/men7img2.jpg",
+                "men/men7img3.jpg",
+                "men/men7img4.jpg"
+            ],
+            "link": "https://www.amazon.in/CULTSPORT-Typographic-Breathable-Comfortable-Bio-Washed/dp/B0D3F1XF33",
+            "name": "CULTSPORT Men's Training Typographic T-Shirt",
+            "price": 419
+        },
+        {
+            "description": "Sporty fashion trend with a casual, striped design.",
+            "images": [
+                "men/men8img1.jpg",
+                "men/men8img2.jpg",
+                "men/men8img3.jpg",
+                "men/men8img4.jpg"
+            ],
+            "link": "https://www.myntra.com/tshirts/hrx-by-hrithik-roshan/hrx-by-hrithik-roshan-men-teal-blue-printed-pure-cotton-t-shirt/1700871/buy",
+            "name": "Men Teal Blue Printed Pure Cotton T-shirt",
+            "price": 279
+        },
+        {
+            "description": "Rapid Dry and Anti-Microbial technology to wick away sweat and keep odor-causing microbes at bay.",
+            "images": [
+                "men/men9img1.jpg",
+                "men/men9img2.jpg",
+                "men/men9img3.jpg",
+                "men/men9img4.jpg"
+            ],
+            "link": "https://www.myntra.com/tshirts/hrx-by-hrithik-roshan/hrx-by-hrithik-roshan-basketball-men-jet-black-rapid-dry-typography-tshirts/16938280/buy",
+            "name": "Basketball Men Jet Black Rapid-Dry Typography Tshirts",
+            "price": 1799
+        },
+        {
+            "description": "Classic black T-shirt for a light workout or casual wear.",
+            "images": [
+                "men/men10img1.jpg",
+                "men/men10img2.jpg",
+                "men/men10img3.jpg",
+                "men/men10img4.jpg"
+            ],
+            "link": "https://www.myntra.com/tshirts/hrx-by-hrithik-roshan/hrx-by-hrithik-roshan-men-black-high-neck-t-shirt/2314451/buy",
+            "name": "Men Black Typography Printed Cotton T-shirt",
+            "price": 1499
+        },
+        {
+            "description": "Polyester T-shirt with moisture-wicking technology for intense workouts.",
+            "images": [
+                "men/men11img1.jpg",
+                "men/men11img2.jpg",
+                "men/men11img3.jpg",
+                "men/men11img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Adidas-Mens-Fitted-T-Shirt-FJ9215_Scarle/dp/B07XQ389TL/ref=sxin_15_pa_sp_search_thematic_sspa",
+            "name": "Adidas Men's Striped Fitted T-Shirt Red",
+            "price": 519
+        },
+        {
+            "description": "100% cotton T-shirt with a solid pattern and regular fit.",
+            "images": [
+                "men/men12img1.jpg",
+                "men/men12img2.jpg",
+                "men/men12img3.jpg",
+                "men/men12img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Amazon-Brand-Regular-T-Shirt-SS20SYMTEE33-C_Blue/dp/B081VL9Q3D/ref=sxin_15_pa_sp_search_thematic_sspa",
+            "name": "Amazon Brand - Symbol Men's Cotton T Shirt",
+            "price": 279
+        },
+        {
+            "description": "Lightweight, wrinkle-resistant gym training T-shirt with FlexDRY technology.",
+            "images": [
+                "men/men13img1.jpg",
+                "men/men13img2.jpg",
+                "men/men13img3.jpg",
+                "men/men13img4.jpg"
+            ],
+            "link": "https://www.amazon.in/ATICX-Mens-Polyester-Sleeve-Shirt/dp/B0B5HTSB1K/ref=sr_1_25",
+            "name": "ATICX Men's Slim Fit Polyester Half Sleeve T Shirt",
+            "price": 259
+        },
+        {
+            "description": "100% cotton graphic T-shirt with a straight fit and crew neck.",
+            "images": [
+                "men/men14img1.jpg",
+                "men/men14img2.jpg",
+                "men/men14img3.jpg",
+                "men/men14img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Fila-Mens-Straight-Shirt-12012086_Blue_M/dp/B0B4B85LLQ/ref=sr_1_3",
+            "name": "Fila Men's Straight T-Shirt",
+            "price": 599
+        },
+        {
+            "description": "Superstition Tee for basketball, made from cotton.",
+            "images": [
+                "men/men15img1.jpg",
+                "men/men15img2.jpg",
+                "men/men15img3.jpg",
+                "men/men15img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Puma-Printed-Regular-T-Shirt-624765_Blue/dp/B0CX91TRZX/ref=sr_1_10",
+            "name": "Puma Men's Regular Fit T-Shirt",
+            "price": 1572
+        },
+        {
+            "description": "100% cotton oversized T-shirt with soft hand feel and a round neck.",
+            "images": [
+                "men/men16img1.jpg",
+                "men/men16img2.jpg",
+                "men/men16img3.jpg",
+                "men/men16img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Amazon-Brand-Oversized-T-Shirt-SYM-A23-TSH-01_Forest/dp/B0CKBFCY74/ref=sr_1_1_sspa",
+            "name": "Amazon Brand - Symbol Men's Cotton Solid Oversized T-Shirt",
+            "price": 399
+        },
+        {
+            "description": "Made of soft and breathable cotton blend fabric for comfort and durability. Oversized fit for a trendy look.",
+            "images": [
+                "men/men17img1.jpg",
+                "men/men17img2.jpg",
+                "men/men17img3.jpg",
+                "men/men17img4.jpg"
+            ],
+            "link": "https://www.amazon.in/BLAZZE-Regular-Sleeves-Sports-T-Shirt/dp/B0D5LFLCNM/ref=sr_1_9",
+            "name": "THE BLAZZE Men Regular Round Neck Half Sleeves Dry Fit Jersey",
+            "price": 399
+        },
+        {
+            "description": "Ultrasoft and durable with twice the strength of regular cotton.",
+            "images": [
+                "men/men18img1.jpg",
+                "men/men18img2.jpg",
+                "men/men18img3.jpg",
+                "men/men18img4.jpg"
+            ],
+            "link": "https://www.jockey.in/products/super-combed-supima-cotton-round-neck-half-sleeve-t-shirt-white-im21",
+            "name": "Super Combed Supima Cotton Round Neck Half Sleeve T-Shirt - White",
+            "price": 799
+        },
+        {
+            "description": "V-neck half-sleeve T-shirt made from a cotton-polyester blend for all-day comfort.",
+            "images": [
+                "men/men19img1.jpg",
+                "men/men19img2.jpg",
+                "men/men19img3.jpg",
+                "men/men19img4.jpg"
+            ],
+            "link": "https://www.jockey.in/products/super-combed-cotton-rich-solid-v-neck-half-sleeve-t-shirt-balsam-green-2726",
+            "name": "Super Combed Cotton Rich Solid V Neck Half Sleeve T-Shirt",
+            "price": 579
+        },
+        {
+            "description": "Super combed Supima cotton, full-sleeve T-shirt with a round neck for maximum comfort.",
+            "images": [
+                "men/men20img1.jpg",
+                "men/men20img2.jpg",
+                "men/men20img3.jpg",
+                "men/men20img4.jpg"
+            ],
+            "link": "https://www.jockey.in/products/super-combed-supima-cotton-solid-round-neck-full-sleeve-t-shirt-deep-olive-im22",
+            "name": "Super Combed Supima Cotton Solid Round Neck Full Sleeve T-Shirt - Deep Olive",
+            "price": 999
+        },
+        {
+            "description": "fasdfasdf",
+            "images": [
+                "men/men21img1.jpg",
+                "men/men21img2.jpg",
+                "men/men21img3.jpg",
+                "men/men21img4.jpg"
+            ],
+            "link": "https://www.instagram.com/p/CtmK6XWtoPC/",
+            "name": "fasdf",
+            "price": 13243
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/bce88d8131.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>Gym Vouge</title>
+</head>
+<body>
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <img src="{{ url_for('static', filename='images/file.jpg') }}" alt="logo" width="45px">
+                </div>
+                <nav>
+                    <ul id="MenuItems">
+                        <li><a href="{{ url_for('home') }}">Home</a></li>
+                        <li><a href="{{ url_for('products') }}">Products</a></li>
+                        <li><a href="{{ url_for('about') }}">About Us</a></li>
+                        <li><a href="{{ url_for('contact') }}">Contact Us</a></li>
+                    </ul>
+                </nav>                    
+                <img class="menu-icon" src="{{ url_for('static', filename='images/menu.png') }}" alt="menu" onclick="menutoggle( )">
+            </div>
+        </div>
+    <!---Featured Categories---->
+    <div class="categories">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-3 category-item">
+                    <a href="{{ url_for('trousers') }}">
+                        <img src="{{ url_for('static', filename='images/trousers.jpg') }}" alt="trousers">
+                        <div class="overlay">
+                            <h3>Trousers</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-3 category-item">
+                    <a href="{{ url_for('womens') }}">
+                        <img src="{{ url_for('static', filename='images/woman.jpg') }}" alt="woman">
+                        <div class="overlay">
+                            <h3>Women Apparel</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-3 category-item">
+                    <a href="{{ url_for('mens') }}">
+                        <img src="{{ url_for('static', filename='images/clothes.jpg') }}" alt="men">
+                        <div class="overlay">
+                            <h3>Men Apparel</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-3 category-item">
+                    <a href="{{ url_for('dufflebags') }}">
+                        <img src="{{ url_for('static', filename='images/dufflebags.jpg') }}" alt="bags">
+                        <div class="overlay">
+                            <h3>Duffle Bags</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-3 category-item">
+                    <a href="{{ url_for('shoes') }}">
+                        <img src="{{ url_for('static', filename='images/shoes.jpg') }}" alt="shoes">
+                        <div class="overlay">
+                            <h3>Shoes</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div> 
+    <!--Footer-->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download Our App</h3>
+                    <p>Our App Will be Available soon on Android and IOS</p>
+                </div>
+                <div class="footer-col-2">
+                    <img src="{{ url_for('static', filename='images/file.jpg') }}" alt="logo">
+                    <p>Our Purpose is To Provide Accurate Descriptions and Best Deals</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li>About Us</li>
+                        <li>Creator</li>
+                        <li>Contact Us</li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Instagram</li>
+                        <li>Twitter</li>
+                        <li>Youtube</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">Copyright 2024 - Gym Vouge</p>
+        </div>
+    </div>
+    <!--js toggle menu-->
+    <script>
+        var MenuItems = document.getElementById("MenuItems");
+        MenuItems.style.maxHeight = "0px";
+        function menutoggle(){
+            if(MenuItems.style.maxHeight == "0px")
+                {
+                    MenuItems.style.maxHeight = "200px";
+                }
+            else
+                {   
+                    MenuItems.style.maxHeight = "0px";
+                }
+        }
+    </script>
+</body>
+</html>

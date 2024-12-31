@@ -1,0 +1,109 @@
+shoe 1
+Name-PUMA FusionX Men's Slip-On Shoes
+Price-2399
+Description-Discover the effortless charm of the PUMA FusionX Slip-On Shoes. Crafted with a soft textile upper, these shoes embody; Style: 310740_02; Color: Olive Drab-Myrtle
+Link-https://in.puma.com/in/en/pd/puma-fusionx-mens-slip-on-shoes/310740?swatch=01
+https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/310740/01/sv01/fnd/IND/fmt/png/PUMA-FusionX-Men
+shoe 2
+Name-LQDCELL Method Men's Training Shoes
+Price-5739
+Description-Feel your need for speed in our LQDCELL Method Men's Training Shoes, a superior design engineered with agility in mind. This high-tech training shoe pairs LQDCELL technology with a ProFoam; Style: 193685_04; Color: Puma Black-Nrgy Blue-Fizzy Yellow
+Link-https://in.puma.com/in/en/pd/lqdcell-method-mens-training-shoes/193685?swatch=04
+https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/193685/04/sv01/fnd/IND/fmt/png/LQDCELL-Method-Men
+shoe 3
+Name-Pure XT Fresh Men's Training Shoes
+Price-5739
+Description-Need a shoe you can count on as you crush your HIIT workouts? The Pure XT is it. Sweat it out knowing they have got your back with lightweight responsiveness thanks to the PROFOAM midsole and traction thanks to the PUMAGrip outsole. This versatile shoe is the ideal training buddy to take your personal bests off the charts. And then some.; Style: 377276_01; Color: Puma Black-CASTLEROCK
+Link-https://in.puma.com/in/en/pd/pure-xt-fresh-mens-training-shoes/377276?swatch=02
+https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/377276/02/mod02/fnd/IND/fmt/png/Pure-XT-Fresh-men
+shoe 4
+Name-Nike Vaporfly 3
+Price-19657
+Description-N Giving you race-day speed to conquer any distance, the Nike Vaporfly 3 is made for the chasers, the racers and the elevated pacers who can't turn down the thrill of the pursuit. We reworked the leader of the super shoe pack and tuned the engine underneath to help you chase personal bests from a 10K to marathon. From elite runners to those new to racing, this versatile road-racing workhorse is for those who see speed as a gateway to more miles and more seemingly uncatchable highs. Colour Shown: Football Grey/Green Strike/Light Armoury Blue/Racer Blue
+Link-https://www.nike.com/in/t/vaporfly-3-road-racing-shoes-xsDgvM
+shoe 5
+Name-Everyset Shoes
+Price-5849
+Description-Training shoes with stability, made in part with recycled materials.
+Training is a journey. No matter where you are on yours, lace up these adidas shoes and get to it. The knit upper is soft and breathable with a snug feel. A dual-density midsole, with firmer EVA outside surrounding softer EVA inside, adds stability without sacrificing comfort. The overall shape creates a stable and grounded feeling, so you can focus on your form. Shift your weight whenever you need to - the multidirectional rubber outsole keeps a solid grip Colour: Grey Two / Cloud White / Cloud White
+Link-https://www.adidas.co.in/everyset-shoes/HP3263.html
+shoe 6
+Name- Strutter Shoes
+Price-4199
+Description-Chunky shoes geared for comfort through an active day.
+Delivering the dadliest of dad vibes, these shoes have a chunky design that keeps you comfortable throughout your day. The smooth leather upper is detailed with cutouts, overlays and signature 3-Stripes. It's anchored on a high-profile sculpted midsole and a grippy outsole. Colour: Cloud White / Green Spark / Core Black
+Link-https://www.adidas.co.in/strutter-shoes/ID3072.html
+shoe 7
+Name-Puma Unisex-Adult Sf Drift Cat 5 Ultra Ii Sneakers
+Price-2749
+Description-Style Name:-Ferrari Drift Cat 5 Ultra II Shoes Upper Material:-Synthetic Leather Lower Material:-Rubber Care Instructions: Wipe with a clean dry cloth; Colour: Black-White
+Link-https://www.amazon.in/Puma-unisex-adult-Drift-Black-White-Sneaker/dp/B07QHNYQR2/ref=asc_df_B07QHNYQR2/?tag=googleshopdes-21&linkCode=df0&hvadid=710066525906&hvpos=&hvnetw=g&hvrand=4466946569967485773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075280&hvtargid=pla-836061362769&psc=1&mcid=b520202ef04c30f7a7f8dcf8a4ced3d4&gad_source=1https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c2d1484176ee4fa895f50b44ec493ff8_9366/Strutter_Shoes_White_ID3072_01_standard.jpg
+shoe 8
+Name-LIGRA 7 SHOES
+Price-3599.50
+Description-VERSATILE INDOOR COURT SHOES MADE IN PART WITH RECYCLED MATERIALS.
+Created to perform on every kind of court, these adidas Ligra 7 shoes will help you improve your indoor game. When the action shifts up a gear, their breathable mesh upper will keep you comfortable and confident. The combination of a grippy multidirectional outsole and supportive overlays provide stability while you weave your magic. Synthetic leather on the toe means they'll keep coming back for more. Colour: Cloud White / Core Black / Cloud White
+Link-https://www.adidas.co.in/ligra-7-shoes/GZ0069.html
+shoe 9  
+Name-Amplimove Trainer Shoes
+Price-6999
+Description-Training-specific shoes made in part with recycled materials.
+Unlock your best self in these adidas training shoes. Ready for high-intensity interval training or versatile workouts, they have a breathable mesh upper and zoned TPU overlays in strategic areas to provide extra support for lateral moves. A sculpted EVA midsole absorbs impact to keep you stable as you reach your next goal. Colour: Core Black / Cloud White / Grey Six
+Link-https://www.adidas.co.in/amplimove-trainer-shoes/IF0953.html
+shoe 10
+Name-PIVOT COURT M
+Price-4299
+Description-Colour: Magic Beige / Core Black Product code: IV5053
+Link-https://www.adidas.co.in/pivot-court-m/IV5053.html
+shoe 11
+Name-Dropset 3 Shoes
+Price-12999
+Description-Strength training shoes made in part with recycled materials.
+Whether lifting, pushing or pulling, Dropset 3 trainers provide the stable support needed for strength training. A dual-density midsole keeps feet cushioned through intense reps, while a TPU sidewall locks in the midfoot. adidas HEAT.RDY keeps feet cool even when the workout heats up. Wider than standard fit, these trainers comfortably contain any foot swell from exertion. Colour: Cloud White / Crystal White / Crystal White
+Link-https://www.adidas.co.in/dropset-3-shoes/IH8289.html
+shoe 12
+Name-Rapidmove Trainer
+Price-5159
+Description-Shoes for HIIT and agile workouts, made in part with recycled materials.
+Don't train in your running shoes. The dynamic, multidirectional movements of HIIT require a dedicated pair. Like these agile, lightweight training shoes from adidas. The EVA midsole is tuned for comfort and support, and the asymmetrical Torsion System helps keep you stable during quick cuts and moves in all directions. Colour: Crystal Jade / Aurora Black / Green Spark
+Link-https://www.adidas.co.in/rapidmove-trainer/IF0967.html
+shoe 13
+Name-Campus Men's Mesh Running Shoe
+Price-949
+Description-Style your Shoes- These lace-up running shoes for men are adaptable and stylish, featuring eye-catching color combinations and the Air-Capsule at the heel for comfort and support. Whether you need to dress up for work or dress down for comfort, these shoes can complement any semi-formal or casual outfit. They are suitable for various occasions, such as coffee dates, parties, trips, parks, or casual gatherings. Color: Black/ Dark
+Link-https://www.amazon.in/Campus-North-Black-Running-Shoes/dp/B08PSHLJGL/ref=sr_1_4_sspa?crid=3R777I11GEHRY&dib=eyJ2IjoiMSJ9.v3kZMgLuchkk8reFBRajfp9Puchu7j9xoMCp6wqPaohPuJ7Il-flbC_nHQsZv8c0x90D4QhSwp7Hb1P_t5pK-1aYaw9uVAXegStDUDlqGKGlcB1dvtSxMBh0kUXIK_7FCmeDL95Uru0YzVBOghHs3gt5ARU7MPoHP01-cYaYsMyJmcRFw4hPF6hqg9sGskQtC_I4eBmo3QccPBuu-tI0MLHLOPUvRPRsuhON7OrNIRejYX-aG_I3Ac0aHm18gu4An1SpcIcbJm5ALKLBJDVWznfRKhM-UvC1vVYPbCuAkp0.Re-ENxd3I2IY9hZjDvucoTrpzrf-NjhDx_WIZTbAD9E&dib_tag=se&keywords=gym+shoes&qid=1723618001&sprefix=gym+sho%2Caps%2C366&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+shoe 14
+Name-Campus Men's First Running Shoe
+Price-949
+Description-Style the Shoes-Pair these stylish shoes for men with slim-fitting jeans or chinos for a polished yet relaxed appearance. Carry a casual shirt on top for a stylish work-day look and replace it with a cool t-shirt to hang out with friends. Shoes' Outsole- These men's shoes come equipped with a special Ball Tech in the midsole that cushions your heels for a smooth landing. Color: White/ Cloud White
+Link-https://www.amazon.in/Campus-First-L-Gry-Running-Shoes/dp/B08WPM5D99/ref=sr_1_2_sspa?crid=3R777I11GEHRY&dib=eyJ2IjoiMSJ9.v3kZMgLuchkk8reFBRajfp9Puchu7j9xoMCp6wqPaohPuJ7Il-flbC_nHQsZv8c0x90D4QhSwp7Hb1P_t5pK-1aYaw9uVAXegStDUDlqGKGlcB1dvtSxMBh0kUXIK_7FCmeDL95Uru0YzVBOghHs3gt5ARU7MPoHP01-cYaYsMyJmcRFw4hPF6hqg9sGskQtC_I4eBmo3QccPBuu-tI0MLHLOPUvRPRsuhON7OrNIRejYX-aG_I3Ac0aHm18gu4An1SpcIcbJm5ALKLBJDVWznfRKhM-UvC1vVYPbCuAkp0.Re-ENxd3I2IY9hZjDvucoTrpzrf-NjhDx_WIZTbAD9E&dib_tag=se&keywords=gym+shoes&qid=1723618001&sprefix=gym+sho%2Caps%2C366&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+shoe 15
+Name-ASIAN Men's Wonder-13 Sports Running Shoes
+Price-529
+Description- Comfort Sole & Flexible Walk : The outsoles are made by an air cushion, doubling the effect of shock absorption. Besides, these shoes perform excellent in durability and are also slip resistant. It provides push cushioning comfort for foot pain relief and helps relieve pressure while conforming to your every step. Color: Green
+Link-https://www.amazon.in/ASIAN-Wonder-Firozi-Sports-Indian/dp/B01MTQ5M7B/ref=sr_1_5?crid=3R777I11GEHRY&dib=eyJ2IjoiMSJ9.v3kZMgLuchkk8reFBRajfp9Puchu7j9xoMCp6wqPaohPuJ7Il-flbC_nHQsZv8c0x90D4QhSwp7Hb1P_t5pK-1aYaw9uVAXegStDUDlqGKGlcB1dvtSxMBh0kUXIK_7FCmeDL95Uru0YzVBOghHs3gt5ARU7MPoHP01-cYaYsMyJmcRFw4hPF6hqg9sGskQtC_I4eBmo3QccPBuu-tI0MLHLOPUvRPRsuhON7OrNIRejYX-aG_I3Ac0aHm18gu4An1SpcIcbJm5ALKLBJDVWznfRKhM-UvC1vVYPbCuAkp0.Re-ENxd3I2IY9hZjDvucoTrpzrf-NjhDx_WIZTbAD9E&dib_tag=se&keywords=gym+shoes&qid=1723618001&sprefix=gym+sho%2Caps%2C366&sr=8-5
+shoe 16
+Name-adidas Mens Drogo M Running Shoe
+Price-1433
+Description- Synthetic And Mesh ;Description: Running ;Fastening: Lace-up; Sports ;Ankle Height: Regular, Color: White; Sole materialEthylene Vinyl Acetate
+Link--https://www.amazon.in/Adidas-FTWWHT-Running-Shoes-10-CL7633_10/dp/B07M8RXP42/ref=sr_1_9?crid=3R777I11GEHRY&dib=eyJ2IjoiMSJ9.v3kZMgLuchkk8reFBRajfp9Puchu7j9xoMCp6wqPaohPuJ7Il-flbC_nHQsZv8c0x90D4QhSwp7Hb1P_t5pK-1aYaw9uVAXegStDUDlqGKGlcB1dvtSxMBh0kUXIK_7FCmeDL95Uru0YzVBOghHs3gt5ARU7MPoHP01-cYaYsMyJmcRFw4hPF6hqg9sGskQtC_I4eBmo3QccPBuu-tI0MLHLOPUvRPRsuhON7OrNIRejYX-aG_I3Ac0aHm18gu4An1SpcIcbJm5ALKLBJDVWznfRKhM-UvC1vVYPbCuAkp0.Re-ENxd3I2IY9hZjDvucoTrpzrf-NjhDx_WIZTbAD9E&dib_tag=se&keywords=gym+shoes&qid=1723618001&sprefix=gym+sho%2Caps%2C366&sr=8-9
+shoe 17
+Name-Adidas Men's Clinch-X M Running Shoe
+Price-1199
+Description-Mesh upper for lightweight and breathability ;These are Men Running Shoes ;Brand: Adidas ;Midsole: lightstrike IMEVA midsole with visible adiprene providing protection from harmful impact forces.  Colour: CBLACK/FTWWHT
+Link-https://www.amazon.in/Adidas-Mens-Clinch-X-Running-Black/dp/B08FZS992L/ref=sr_1_10?crid=3R777I11GEHRY&dib=eyJ2IjoiMSJ9.v3kZMgLuchkk8reFBRajfp9Puchu7j9xoMCp6wqPaohPuJ7Il-flbC_nHQsZv8c0x90D4QhSwp7Hb1P_t5pK-1aYaw9uVAXegStDUDlqGKGlcB1dvtSxMBh0kUXIK_7FCmeDL95Uru0YzVBOghHs3gt5ARU7MPoHP01-cYaYsMyJmcRFw4hPF6hqg9sGskQtC_I4eBmo3QccPBuu-tI0MLHLOPUvRPRsuhON7OrNIRejYX-aG_I3Ac0aHm18gu4An1SpcIcbJm5ALKLBJDVWznfRKhM-UvC1vVYPbCuAkp0.Re-ENxd3I2IY9hZjDvucoTrpzrf-NjhDx_WIZTbAD9E&dib_tag=se&keywords=gym+shoes&qid=1723618001&sprefix=gym+sho%2Caps%2C366&sr=8-10
+shoe 18
+Name-SPARX Mens Sm 648sports Running Shoes
+Price-739
+Description- Material:MESH lightweight and comfortable Lifestyle:Casual and jogging running exercise shoes Heel Type:Flats Colour: BLACK GOLD
+Link-https://www.amazon.in/Sparx-SM-648-Golden-Running-SX0648GBKGO0008/dp/B08K9Q9HYW/ref=sr_1_13?crid=3R777I11GEHRY&dib=eyJ2IjoiMSJ9.v3kZMgLuchkk8reFBRajfp9Puchu7j9xoMCp6wqPaohPuJ7Il-flbC_nHQsZv8c0x90D4QhSwp7Hb1P_t5pK-1aYaw9uVAXegStDUDlqGKGlcB1dvtSxMBh0kUXIK_7FCmeDL95Uru0YzVBOghHs3gt5ARU7MPoHP01-cYaYsMyJmcRFw4hPF6hqg9sGskQtC_I4eBmo3QccPBuu-tI0MLHLOPUvRPRsuhON7OrNIRejYX-aG_I3Ac0aHm18gu4An1SpcIcbJm5ALKLBJDVWznfRKhM-UvC1vVYPbCuAkp0.Re-ENxd3I2IY9hZjDvucoTrpzrf-NjhDx_WIZTbAD9E&dib_tag=se&keywords=gym+shoes&qid=1723618001&sprefix=gym+sho%2Caps%2C366&sr=8-13
+shoe 19
+Name-ASIAN Men's Nexon-03 Sports Running,Walking,Gym Shoes with Max Cushion Technology Lightweight Eva Sole Casual Sneaker Shoes for Men's & Boy's
+Price-639
+Description-Lightweight & Breathable : Exclusive design and durable materials every step feels light and breezy. Breathable, free-moving fabrics which adjust according to your foot and creates an astoundingly easy-going experience. Lightweight & Breathable : Exclusive design and durable materials every step feels light and breezy. Breathable, free-moving fabrics which adjust according to your foot and creates an astoundingly easy-going experience.Non Slip & Shockproof : Great engineering strikes a balance in style, made in the potent design and latest fashion trends. Made for long-term wear, with extra emphasis on providing cushion to the feet, removing heel strain. Colour: 1WHITE ORANGE
+Link-https://www.amazon.in/ASIAN-White-Orange-First-Walker/dp/B0CHBKN7W5/ref=sr_1_15?crid=3R777I11GEHRY&dib=eyJ2IjoiMSJ9.v3kZMgLuchkk8reFBRajfp9Puchu7j9xoMCp6wqPaohPuJ7Il-flbC_nHQsZv8c0x90D4QhSwp7Hb1P_t5pK-1aYaw9uVAXegStDUDlqGKGlcB1dvtSxMBh0kUXIK_7FCmeDL95Uru0YzVBOghHs3gt5ARU7MPoHP01-cYaYsMyJmcRFw4hPF6hqg9sGskQtC_I4eBmo3QccPBuu-tI0MLHLOPUvRPRsuhON7OrNIRejYX-aG_I3Ac0aHm18gu4An1SpcIcbJm5ALKLBJDVWznfRKhM-UvC1vVYPbCuAkp0.Re-ENxd3I2IY9hZjDvucoTrpzrf-NjhDx_WIZTbAD9E&dib_tag=se&keywords=gym+shoes&qid=1723618001&sprefix=gym+sho%2Caps%2C366&sr=8-15
+shoe 20
+Name-Bersache Sports Shoes for Men |Latest Stylish Sports Shoes for Men |Lace-Up Lightweight White Shoes for Running, Walking, Gym,Trekking and Hiking Shoes for Men
+Price-949
+Description-Modern, breathable sports shoes that are made to fit you comfortably are ideal for all seasons-winter, summer, and rainy.  The best sports shoes for men can be worn for everyday activities, the gym, running, jogging, walking, dancing, and even as party shoes. Colour: Black
+Link-https://www.amazon.in/Bersache-Premium-Trending-Stylish-Running/dp/B09ZDG5H4H/ref=sr_1_14?crid=3R777I11GEHRY&dib=eyJ2IjoiMSJ9.v3kZMgLuchkk8reFBRajfp9Puchu7j9xoMCp6wqPaohPuJ7Il-flbC_nHQsZv8c0x90D4QhSwp7Hb1P_t5pK-1aYaw9uVAXegStDUDlqGKGlcB1dvtSxMBh0kUXIK_7FCmeDL95Uru0YzVBOghHs3gt5ARU7MPoHP01-cYaYsMyJmcRFw4hPF6hqg9sGskQtC_I4eBmo3QccPBuu-tI0MLHLOPUvRPRsuhON7OrNIRejYX-aG_I3Ac0aHm18gu4An1SpcIcbJm5ALKLBJDVWznfRKhM-UvC1vVYPbCuAkp0.Re-ENxd3I2IY9hZjDvucoTrpzrf-NjhDx_WIZTbAD9E&dib_tag=se&keywords=gym+shoes&qid=1723618001&sprefix=gym+sho%2Caps%2C366&sr=8-14

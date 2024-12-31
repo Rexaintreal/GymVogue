@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/bce88d8131.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>All Products</title>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="navbar">
+            <div class="logo">
+                <img src="{{ url_for('static', filename='images/file.jpg') }}" alt="logo" width="45px">
+            </div>
+            <nav>
+                <ul id="MenuItems">
+                    <li><a href="{{ url_for('home') }}">Home</a></li>
+                    <li><a href="{{ url_for('products') }}">Products</a></li>
+                    <li><a href="{{ url_for('about') }}">About Us</a></li>
+                    <li><a href="{{ url_for('contact') }}">Contact Us</a></li>
+                </ul>
+            </nav>            
+            <img class="menu-icon" src="{{ url_for('static', filename='images/menu.png') }}" alt="menu" onclick="menutoggle( )">
+        </div>
+    </div>
+    <!--Single Product Details-->
+    <div class="small-container single-product">
+        <div class="row">
+            <div class="col-2">
+                <!-- Main product image -->
+                <img src="{{ url_for('static', filename='images/' + product.images[0]) }}" alt="{{ product.name }}" id="productImg" width="100%">
+                
+                <div class="small-img-row">
+                    {% for small_image in product.images[0: ] %} <!-- Skip the first image for the small images -->
+                    <div class="small-img-col">
+                        <img src="{{ url_for('static', filename='images/' + small_image) }}" alt="{{ product.name }}" width="100%" class="small-img">
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            
+            <div class="col-2">
+                <p>Home / {{ product.name }}</p>
+                <h1>{{ product.name }}</h1>
+                <h4>&#8377;{{ product.price }}</h4>
+                <a href="{{ product.link }}" class="btn">Visit Website</a>
+                <h3>Product Details <i class="fa fa-indent" aria-hidden="true"></i></h3>
+                <br>
+                <p>{{ product.description }}</p>
+            </div>
+        </div>       
+    </div>
+    <!--title-->
+    <div class="small-container">
+        <div class="row row-2">
+            <h2>Related Products</h2>
+        </div>
+    </div>
+    <div class="small-container">
+        <div class="row">
+            {% for random_product in random_products %}
+                <div class="col-4">
+                    <a href="{{ url_for('product_detail', productname=random_product.name) }}">
+                        <img class="product-img" src="{{ url_for('static', filename='images/' + random_product.images[0]) }}" alt="{{ random_product.name }}">
+                        <h4 class="product-name">{{ random_product.name }}</h4>
+                    </a>
+                    <div class="rating" id="rating-{{ loop.index }}">
+                        <!-- Rating will be added here by JavaScript -->
+                    </div>
+                    <p>&#8377;{{ random_product.price }}</p>
+                </div>
+            {% endfor %}
+        </div>   
+    </div>
+    <!--Footer-->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download Our App</h3>
+                    <p>Our App Will be Available soon on Android and IOS</p>
+                </div>
+                <div class="footer-col-2">
+                    <img src="{{ url_for('static', filename='images/file.jpg') }}" alt="logo">
+                    <p>Our Purpose is To Provide Accurate Descriptions and Best Deals</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li>About Us</li>
+                        <li>Creator</li>
+                        <li>Contact Us</li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Instagram</li>
+                        <li>Twitter</li>
+                        <li>Youtube</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">Copyright 2024 - Gym Vouge</p>
+        </div>
+
+    </div>
+    <!--js toggle menu-->
+    <script>
+        var MenuItems = document.getElementById("MenuItems");
+        MenuItems.style.maxHeight = "0px";
+        function menutoggle(){
+            if(MenuItems.style.maxHeight == "0px")
+                {
+                    MenuItems.style.maxHeight = "200px";
+                }
+            else
+                {   
+                    MenuItems.style.maxHeight = "0px";
+                }
+        }
+    </script>
+    <!--Js for gallary-->
+    <script>
+        var productImg = document.getElementById("productImg")
+        var smallImg = document.getElementsByClassName("small-img")
+
+        for (let i = 0; i < smallImg.length; i++) {
+            smallImg[i].onclick = function() {
+                productImg.src = smallImg[i].src; // Change product image to the clicked small image
+            };
+        }
+    </script>
+    <script>
+        // Function to generate random rating between 3.5 and 5
+        function generateRandomRating(min = 3.5, max = 5) {
+            return (Math.random() * (max - min) + min).toFixed(1);
+        }
+    
+        // Function to display stars based on the rating
+        function displayRatingStars(rating) {
+            let fullStars = Math.floor(rating);  // Number of full stars
+            let halfStar = rating % 1 >= 0.5;  // Check if there's a half star
+            let starHTML = '';
+    
+            // Add full stars
+            for (let i = 0; i < fullStars; i++) {
+                starHTML += '<i class="fa fa-star" aria-hidden="true"></i>';
+            }
+    
+            // Add half star if applicable
+            if (halfStar) {
+                starHTML += '<i class="fa fa-star-half-o" aria-hidden="true"></i>';
+            }
+    
+            // Add empty stars to complete 5 stars
+            for (let i = fullStars + halfStar; i < 5; i++) {
+                starHTML += '<i class="fa fa-star-o" aria-hidden="true"></i>';
+            }
+    
+            return starHTML;
+        }
+    
+        // Apply random ratings to all products
+        document.addEventListener('DOMContentLoaded', function () {
+            const products = document.querySelectorAll('.rating');
+            products.forEach((product, index) => {
+                const rating = generateRandomRating();
+                product.innerHTML = displayRatingStars(rating) + ` <span>(${rating})</span>`;
+            });
+        });
+    </script>
+</body>
+</html>

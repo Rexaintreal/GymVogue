@@ -1,0 +1,247 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/bce88d8131.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+        <title>Gym Vogue</title>
+    </head>
+    <body>
+        <div class="header">
+            <div class="container">
+                <div class="navbar">
+                    <div class="logo">
+                        <img src="{{ url_for('static', filename='images/file.jpg') }}" alt="logo" width="45px">
+                    </div>
+                    <nav>
+                        <ul id="MenuItems">
+                            <li><a href="{{ url_for('home') }}">Home</a></li>
+                            <li><a href="{{ url_for('products') }}">Products</a></li>
+                            <li><a href="{{ url_for('about') }}">About Us</a></li>
+                            <li><a href="{{ url_for('contact') }}">Contact Us</a></li>
+                        </ul>
+                    </nav>                    
+                    <img class="menu-icon" src="{{ url_for('static', filename='images/menu.png') }}" alt="menu" onclick="menutoggle( )">
+                </div>
+                <div class="row">
+                    <div class="col-2">
+                        <h1>Elevate Your Fitness Game With Gym Vogue!</h1>
+                        <p>Discover top-rated fitness gear and stylish activewear</p>
+                        <a href="{{ url_for('products') }}" class="btn">Explore Now &#8594;</a>
+                    </div>
+                    <div class="col-2">
+                        <img class="duo" src="{{ url_for('static', filename='images/duo.png') }}" alt="duo" width="45px">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!---Featured Categories---->
+        <div class="categories">
+            <div class="small-container">
+                <div class="row">
+                    <div class="col-3 category-item">
+                        <a href="{{ url_for('dufflebags') }}">
+                            <img src="{{ url_for('static', filename='images/dufflebags.jpg') }}" alt="bags">
+                            <div class="overlay">
+                                <h3>Duffle Bags</h3>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-3 category-item">
+                        <a href="{{ url_for('shoes') }}">
+                            <img src="{{ url_for('static', filename='images/shoes.jpg') }}" alt="shoes">
+                            <div class="overlay">
+                                <h3>Shoes</h3>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-3 category-item">
+                        <a href="{{ url_for('products') }}">
+                            <img src="{{ url_for('static', filename='images/clothes.jpg') }}" alt="clothes">
+                            <div class="overlay">
+                                <h3>Apparel</h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>        
+        <!--Featured Products-->
+        <div class="small-container">
+            <h2 class="title">Popular Products</h2>
+            <div class="row">
+                <div class="col-4">
+                    <a href="{{ url_for('product_detail', productname='Basketball Men Jet Black Rapid-Dry Typography Tshirts') }}">
+                        <img src="{{ url_for('static', filename='images/featuredshirt.png') }}" alt="Basketball Men Jet Black Rapid-Dry Typography TShirt">
+                        <h4>Basketball Men Jet Black Rapid-Dry Typography TShirt</h4>
+                    </a>
+                    <div class="rating">
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star-half-o" aria-hidden="true"></i>
+                    </div>
+                    <p>&#8377;1799</p>
+                </div>                
+                <div class="col-4">
+                    <a href="{{ url_for('product_detail', productname='HRX by Hrithik Roshan Men Rapid Dry Training Shorts') }}">
+                        <img src="{{ url_for('static', filename='images/featuredshorts.png') }}" alt="Men Black Printed Rapid Dry Woven Running Sports Shorts">
+                        <h4>Men Black Printed Rapid Dry Woven Running Sports Shorts</h4>
+                    </a>
+                    <div class="rating">
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star-o" aria-hidden="true"></i>
+                    </div>
+                    <p>&#8377;1399</p>
+                </div>
+                <div class="col-4">
+                    <a href="{{ url_for('product_detail', productname='Men Black Urban Outdoor Shoes') }}">
+                        <img src="{{ url_for('static', filename='images/featuredshoes.png') }}" alt="Men Black Trainer-1 Training or Gym Shoes">
+                        <h4>Men Black Trainer-1 Training or Gym Shoes</h4>
+                    </a>
+                    <div class="rating">
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                    </div>
+                    <p>&#8377;4799</p>
+                </div>
+                <div class="col-4">
+                    <a href="{{ url_for('product_detail', productname='HRX By Hrithik Roshan Outdoor Women Winter Moss Convertable Solid Trousers') }}">
+                        <img src="{{ url_for('static', filename='images/featuredwomen.png') }}" alt="HRX By Hrithik Roshan Outdoor Women Winter Moss Convertable Solid Trousers">
+                        <h4>Outdoor Women Winter Moss Convertable Solid Trousers</h4>
+                    </a>
+                    <div class="rating">
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star-half-o" aria-hidden="true"></i>
+                    </div>
+                    <p>&#8377;2999</p>
+                </div>
+            </div>
+        </div>
+        <!--Offer-->
+        <div class="offer">
+            <div class="small-container">
+                <div class="row">
+                    <div class="col-2">
+                        <img class="offer-img" src="{{ url_for('static', filename='images/nikeex.png') }}" alt="Exclusive">
+                    </div>
+                    <div class="col-2">
+                        <p>Exclusively Available on GymVouge</p>
+                        <h1>Nike Vaporfly 3</h1>
+                        <small>From elite runners to those new to racing, this versatile road-racing workhorse is for those who see speed as a gateway to more miles and more seemingly uncatchable highs</small>
+                        <a href="{{ url_for('product_detail', productname='Nike Vaporfly 3') }}" class="btn">Know More &#8594;</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Testimonials-->
+        <div class="testimonial">
+            <div class="small-container">
+                <div class="row">
+                    <div class="col-3">
+                        <i class="fa fa-quote-left" aria-hidden="true"></i>
+                        <p>Gym Vogue made shopping for fitness gear so easy! I can quickly compare product descriptions and prices without having to visit multiple websites. When I find something I like, I'm redirected to the original site to buy it—it's seamless! This has become my go-to place for all things fitness.</p>
+                        <div class="rating">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star-half-o" aria-hidden="true"></i>
+                        </div>
+                        <img src="{{ url_for('static', filename='images/user1.jpg') }}" alt="Rajeev">
+                        <h3>Rajiv - Fitness Enthusiast</h3>
+                    </div>
+                    <div class="col-3">
+                        <i class="fa fa-quote-left" aria-hidden="true"></i>
+                        <p>"I love how Gym Vogue helps me find the best deals on my favorite products. I can easily browse through different options, and when I'm ready to buy, the site sends me directly to where it's sold. No more endless searching—this site saves me so much time!</p>
+                        <div class="rating">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                        </div>
+                        <img src="{{ url_for('static', filename='images/user2.jpg') }}" alt="Anjali">
+                        <h3>Anjali - Budget Shopper</h3>
+                    </div>
+                    <div class="col-3">
+                        <i class="fa fa-quote-left" aria-hidden="true"></i>
+                        <p>Gym Vogue is like a personal shopping assistant! I get all the details I need on the latest fitness products and can easily click through to buy them on the original site. It's the best tool for finding deals and top products in one place!, it helps me compare prices without the hassle.</p>
+                        <div class="rating">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                        </div>
+                        <img src="{{ url_for('static', filename='images/user3.jpg') }}" alt="Rahul">
+                        <h3>Rahul - Deal Hunter</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Footer-->
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col-1">
+                        <h3>Download Our App</h3>
+                        <p>Our App Will be Available soon on Android and IOS</p>
+                    </div>
+                    <div class="footer-col-2">
+                        <img src="{{ url_for('static', filename='images/file.jpg') }}" alt="logo">
+                        <p>Our Purpose is To Provide Accurate Descriptions and Best Deals</p>
+                    </div>
+                    <div class="footer-col-3">
+                        <h3>Useful Links</h3>
+                        <ul>
+                            <li>About Us</li>
+                            <li>Creator</li>
+                            <li>Contact Us</li>
+                        </ul>
+                    </div>
+                    <div class="footer-col-4">
+                        <h3>Follow Us</h3>
+                        <ul>
+                            <li>Facebook</li>
+                            <li>Instagram</li>
+                            <li>Twitter</li>
+                            <li>Youtube</li>
+                        </ul>
+                    </div>
+                </div>
+                <hr>
+                <p class="copyright">Copyright 2024 - Gym Vouge</p>
+            </div>
+        </div>
+        <!--js toggle menu-->
+        <script>
+            var MenuItems = document.getElementById("MenuItems");
+            MenuItems.style.maxHeight = "0px";
+            function menutoggle(){
+                if(MenuItems.style.maxHeight == "0px")
+                    {
+                        MenuItems.style.maxHeight = "200px";
+                    }
+                else
+                    {   
+                        MenuItems.style.maxHeight = "0px";
+                    }
+            }
+        </script>
+    </body>
+    </html>

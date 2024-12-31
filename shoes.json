@@ -1,0 +1,232 @@
+{
+    "shoes": [
+        {
+            "description": "Discover the effortless charm of the PUMA FusionX Slip-On Shoes. Crafted with a soft textile upper. Colour: Olive Drab-Myrtle.",
+            "images": [
+                "shoes/shoe1img1.jpg",
+                "shoes/shoe1img2.jpg",
+                "shoes/shoe1img3.jpg",
+                "shoes/shoe1img4.jpg"
+            ],
+            "link": "https://in.puma.com/in/en/pd/puma-fusionx-mens-slip-on-shoes/310740?swatch=01",
+            "name": "PUMA FusionX Men's Slip-On Shoes",
+            "price": 2399
+        },
+        {
+            "description": "Feel your need for speed in our LQDCELL Method Men's Training Shoes, a superior design engineered with agility in mind. Colour: Puma Black-Nrgy Blue-Fizzy Yellow.",
+            "images": [
+                "shoes/shoe2img1.jpg",
+                "shoes/shoe2img2.jpg",
+                "shoes/shoe2img3.jpg",
+                "shoes/shoe2img4.jpg"
+            ],
+            "link": "https://in.puma.com/in/en/pd/lqdcell-method-mens-training-shoes/193685?swatch=04",
+            "name": "LQDCELL Method Men's Training Shoes",
+            "price": 5739
+        },
+        {
+            "description": "Need a shoe you can count on as you crush your HIIT workouts? The Pure XT is it. Colour: Puma Black-CASTLEROCK.",
+            "images": [
+                "shoes/shoe3img1.jpg",
+                "shoes/shoe3img2.jpg",
+                "shoes/shoe3img3.jpg",
+                "shoes/shoe3img4.jpg"
+            ],
+            "link": "https://in.puma.com/in/en/pd/pure-xt-fresh-mens-training-shoes/377276?swatch=02",
+            "name": "Pure XT Fresh Men's Training Shoes",
+            "price": 5739
+        },
+        {
+            "description": "Giving you race-day speed to conquer any distance, the Nike Vaporfly 3 is made for the chasers, the racers, and the elevated pacers. Colour: Football Grey/Green Strike/Light Armoury Blue/Racer Blue.",
+            "images": [
+                "shoes/shoe4img1.jpg",
+                "shoes/shoe4img2.jpg",
+                "shoes/shoe4img3.jpg",
+                "shoes/shoe4img4.jpg"
+            ],
+            "link": "https://www.nike.com/in/t/vaporfly-3-road-racing-shoes-xsDgvM",
+            "name": "Nike Vaporfly 3",
+            "price": 19657
+        },
+        {
+            "description": "Training shoes with stability, made in part with recycled materials. Colour: Grey Two / Cloud White / Cloud White.",
+            "images": [
+                "shoes/shoe5img1.jpg",
+                "shoes/shoe5img2.jpg",
+                "shoes/shoe5img3.jpg",
+                "shoes/shoe5img4.jpg"
+            ],
+            "link": "https://www.adidas.co.in/everyset-shoes/HP3263.html",
+            "name": "Everyset Shoes",
+            "price": 5849
+        },
+        {
+            "description": "Chunky shoes geared for comfort through an active day. Colour: Cloud White / Green Spark / Core Black.",
+            "images": [
+                "shoes/shoe6img1.jpg",
+                "shoes/shoe6img2.jpg",
+                "shoes/shoe6img3.jpg",
+                "shoes/shoe6img4.jpg"
+            ],
+            "link": "https://www.adidas.co.in/strutter-shoes/ID3072.html",
+            "name": "Strutter Shoes",
+            "price": 4199
+        },
+        {
+            "description": "Style Name: Ferrari Drift Cat 5 Ultra II Shoes. Colour: Black-White.",
+            "images": [
+                "shoes/shoe7img1.jpg",
+                "shoes/shoe7img2.jpg",
+                "shoes/shoe7img3.jpg",
+                "shoes/shoe7img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Puma-unisex-adult-Drift-Black-White-Sneaker/dp/B07QHNYQR2",
+            "name": "Puma Unisex-Adult Sf Drift Cat 5 Ultra Ii Sneakers",
+            "price": 2749
+        },
+        {
+            "description": "Versatile indoor court shoes made in part with recycled materials. Colour: Cloud White / Core Black / Cloud White.",
+            "images": [
+                "shoes/shoe8img1.jpg",
+                "shoes/shoe8img2.jpg",
+                "shoes/shoe8img3.jpg",
+                "shoes/shoe8img4.jpg"
+            ],
+            "link": "https://www.adidas.co.in/ligra-7-shoes/GZ0069.html",
+            "name": "LIGRA 7 SHOES",
+            "price": 3599.5
+        },
+        {
+            "description": "Training-specific shoes made in part with recycled materials. Colour: Core Black / Cloud White / Grey Six.",
+            "images": [
+                "shoes/shoe9img1.jpg",
+                "shoes/shoe9img2.jpg",
+                "shoes/shoe9img3.jpg",
+                "shoes/shoe9img4.jpg"
+            ],
+            "link": "https://www.adidas.co.in/amplimove-trainer-shoes/IF0953.html",
+            "name": "Amplimove Trainer Shoes",
+            "price": 6999
+        },
+        {
+            "description": "Colour: Magic Beige / Core Black.",
+            "images": [
+                "shoes/shoe10img1.jpg",
+                "shoes/shoe10img2.jpg",
+                "shoes/shoe10img3.jpg",
+                "shoes/shoe10img4.jpg"
+            ],
+            "link": "https://www.adidas.co.in/pivot-court-m/IV5053.html",
+            "name": "PIVOT COURT M",
+            "price": 4299
+        },
+        {
+            "description": "Strength training shoes made in part with recycled materials. Colour: Cloud White / Crystal White.",
+            "images": [
+                "shoes/shoe11img1.jpg",
+                "shoes/shoe11img2.jpg",
+                "shoes/shoe11img3.jpg",
+                "shoes/shoe11img4.jpg"
+            ],
+            "link": "https://www.adidas.co.in/dropset-3-shoes/IH8289.html",
+            "name": "Dropset 3 Shoes",
+            "price": 12999
+        },
+        {
+            "description": "Shoes for HIIT and agile workouts, made in part with recycled materials. Colour: Crystal Jade / Aurora Black / Green Spark.",
+            "images": [
+                "shoes/shoe12img1.jpg",
+                "shoes/shoe12img2.jpg",
+                "shoes/shoe12img3.jpg",
+                "shoes/shoe12img4.jpg"
+            ],
+            "link": "https://www.adidas.co.in/rapidmove-trainer/IF0967.html",
+            "name": "Rapidmove Trainer",
+            "price": 5159
+        },
+        {
+            "description": "The HRX Performance Outdoor Shoes from the Out Back Collection which let you enjoy every moment on the trail with its durable construction, underfoot support, and reliable grip.",
+            "images": [
+                "shoes/shoe13img1.jpg",
+                "shoes/shoe13img2.jpg",
+                "shoes/shoe13img3.jpg",
+                "shoes/shoe13img4.jpg"
+            ],
+            "link": "https://www.myntra.com/sports-shoes/hrx-by-hrithik-roshan/hrx-by-hrithik-roshan-men-black-urban-outdoor-shoes/8058263/buy",
+            "name": "Men Black Urban Outdoor Shoes",
+            "price": 4999
+        },
+        {
+            "description": "Stylish shoes for men with Ball Tech cushioning for smooth landings. Colour: White/Cloud White.",
+            "images": [
+                "shoes/shoe14img1.jpg",
+                "shoes/shoe14img2.jpg",
+                "shoes/shoe14img3.jpg",
+                "shoes/shoe14img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Campus-First-L-Gry-Running-Shoes/dp/B08WPM5D99",
+            "name": "Campus Men's First Running Shoe",
+            "price": 949
+        },
+        {
+            "description": "Comfort Sole & Flexible Walk with excellent durability and slip resistance. Colour: Green.",
+            "images": [
+                "shoes/shoe15img1.jpg",
+                "shoes/shoe15img2.jpg",
+                "shoes/shoe15img3.jpg",
+                "shoes/shoe15img4.jpg"
+            ],
+            "link": "https://www.amazon.in/ASIAN-Wonder-Firozi-Sports-Indian/dp/B01MTQ5M7B",
+            "name": "ASIAN Men's Wonder-13 Sports Running Shoes",
+            "price": 529
+        },
+        {
+            "description": "Synthetic and mesh upper for lightweight and breathability. Colour: White.",
+            "images": [
+                "shoes/shoe16img1.jpg",
+                "shoes/shoe16img2.jpg",
+                "shoes/shoe16img3.jpg",
+                "shoes/shoe16img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Adidas-FTWWHT-Running-Shoes-10-CL7633_10/dp/B07M8RXP42",
+            "name": "adidas Mens Drogo M Running Shoe",
+            "price": 1433
+        },
+        {
+            "description": "Mesh upper for lightweight and breathability. Midsole: lightstrike IMEVA midsole. Colour: CBLACK/FTWWHT.",
+            "images": [
+                "shoes/shoe17img1.jpg",
+                "shoes/shoe17img2.jpg",
+                "shoes/shoe17img3.jpg",
+                "shoes/shoe17img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Adidas-Mens-Clinch-X-Running-Black/dp/B08FZS992L",
+            "name": "Adidas Men's Clinch-X M Running Shoe",
+            "price": 1199
+        },
+        {
+            "description": "Lightweight and comfortable shoes for casual and jogging exercise. Colour: BLACK GOLD.",
+            "images": [
+                "shoes/shoe18img1.jpg",
+                "shoes/shoe18img2.jpg",
+                "shoes/shoe18img3.jpg",
+                "shoes/shoe18img4.jpg"
+            ],
+            "link": "https://www.amazon.in/Sparx-SM-648-Golden-Running-SX0648GBKGO0008/dp/B08K9Q9HYW",
+            "name": "SPARX Mens Sm 648sports Running Shoes",
+            "price": 739
+        },
+        {
+            "description": "Lightweight & breathable shoes designed for comfort and durability. Colour: 1WHITE ORANGE.",
+            "images": [
+                "shoes/shoe19img1.jpg",
+                "shoes/shoe19img2.jpg",
+                "shoes/shoe19img3.jpg",
+                "shoes/shoe19img4.jpg"
+            ],
+            "link": "https://www.amazon.in/ASIAN-White-Orange-First-Walker/dp/B0CHBKN7W5",
+            "name": "ASIAN Men's Nexon-03 Sports Running Shoes",
+            "price": 639
+        }
+    ]
+}

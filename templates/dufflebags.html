@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/bce88d8131.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>Duffle Bags</title>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="navbar">
+            <div class="logo">
+                <img src="{{ url_for('static', filename='images/file.jpg') }}" alt="logo" width="45px">
+            </div>
+            <nav>
+                <ul id="MenuItems">
+                    <li><a href="{{ url_for('home') }}">Home</a></li>
+                    <li><a href="{{ url_for('products') }}">Products</a></li>
+                    <li><a href="{{ url_for('about') }}">About Us</a></li>
+                    <li><a href="{{ url_for('contact') }}">Contact Us</a></li>
+                </ul>
+            </nav>            
+            <img class="menu-icon" src="{{ url_for('static', filename='images/menu.png') }}" alt="menu" onclick="menutoggle( )">
+        </div>
+    </div>
+    <div class="small-container">
+        <div class="row row-2">
+            <h2>Duffle Bags</h2>
+            <form method="GET" action="{{ url_for('dufflebags') }}">
+                <select name="sort_by" onchange="this.form.submit()">
+                    <option value="low_to_high" {% if request.args.get('sort_by') == 'low_to_high' %}selected{% endif %}>Price (Lowest to Highest)</option>
+                    <option value="high_to_low" {% if request.args.get('sort_by') == 'high_to_low' %}selected{% endif %}>Price (Highest to Lowest)</option>
+                </select>
+            </form>            
+        </div>
+        <div class="row">
+            {% for bag in bags %}
+                <div class="col-4">
+                    <a href="{{ url_for('product_detail', productname=bag.name) }}">
+                        <img class="product-img" src="{{ url_for('static', filename='images/' + bag.images[0]) }}" alt="{{ bag.name }}">
+                        <h4 class="product-name">{{ bag.name }}</h4>
+                    </a>
+                    <div class="rating" id="rating-{{ loop.index }}">
+                        <!-- Rating will be added here by JavaScript -->
+                    </div>
+                    <p>&#8377;{{ bag.price }}</p>
+                </div>
+            {% endfor %}
+        </div>
+        
+    </div>
+    <!--Footer-->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download Our App</h3>
+                    <p>Our App Will be Available soon on Android and IOS</p>
+                </div>
+                <div class="footer-col-2">
+                    <img src="{{ url_for('static', filename='images/file.jpg') }}" alt="logo">
+                    <p>Our Purpose is To Provide Accurate Descriptions and Best Deals</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li>About Us</li>
+                        <li>Creator</li>
+                        <li>Contact Us</li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Instagram</li>
+                        <li>Twitter</li>
+                        <li>Youtube</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">Copyright 2024 - Gym Vouge</p>
+        </div>
+    </div>
+    <!--js toggle menu-->
+    <script>
+        var MenuItems = document.getElementById("MenuItems");
+        MenuItems.style.maxHeight = "0px";
+        function menutoggle(){
+            if(MenuItems.style.maxHeight == "0px")
+                {
+                    MenuItems.style.maxHeight = "200px";
+                }
+            else
+                {   
+                    MenuItems.style.maxHeight = "0px";
+                }
+        }
+    </script>
+    <script>
+        // Function to generate random rating between 3.5 and 5
+        function generateRandomRating(min = 3.5, max = 5) {
+            return (Math.random() * (max - min) + min).toFixed(1);
+        }
+    
+        // Function to display stars based on the rating
+        function displayRatingStars(rating) {
+            let fullStars = Math.floor(rating);  // Number of full stars
+            let halfStar = rating % 1 >= 0.5;  // Check if there's a half star
+            let starHTML = '';
+    
+            // Add full stars
+            for (let i = 0; i < fullStars; i++) {
+                starHTML += '<i class="fa fa-star" aria-hidden="true"></i>';
+            }
+    
+            // Add half star if applicable
+            if (halfStar) {
+                starHTML += '<i class="fa fa-star-half-o" aria-hidden="true"></i>';
+            }
+    
+            // Add empty stars to complete 5 stars
+            for (let i = fullStars + halfStar; i < 5; i++) {
+                starHTML += '<i class="fa fa-star-o" aria-hidden="true"></i>';
+            }
+    
+            return starHTML;
+        }
+    
+        // Apply random ratings to all products
+        document.addEventListener('DOMContentLoaded', function () {
+            const products = document.querySelectorAll('.rating');
+            products.forEach((product, index) => {
+                const rating = generateRandomRating();
+                product.innerHTML = displayRatingStars(rating) + ` <span>(${rating})</span>`;
+            });
+        });
+    </script>
+    
+</body>
+</html>

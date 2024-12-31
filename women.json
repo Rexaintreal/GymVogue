@@ -1,0 +1,244 @@
+{
+    "women": [
+        {
+            "description": "Teal blue activewear T-shirt with a printed detail. Made from a blend of cotton and polyester for a comfortable fit during workouts.",
+            "images": [
+                "women/women1img1.jpg",
+                "women/women1img2.jpg",
+                "women/women1img3.jpg",
+                "women/women1img4.jpg"
+            ],
+            "link": "https://www.myntra.com/tshirts/hrx-by-hrithik-roshan/women-teal-blue-printed-activewear-t-shirt/12345678/buy",
+            "name": "HRX by Hrithik Roshan Women Teal Blue Printed Activewear T-shirt",
+            "price": 599
+        },
+        {
+            "description": "Blue and white printed straight kurta with three-quarter sleeves, made from soft cotton for a comfortable wear all day long.",
+            "images": [
+                "women/women2img1.jpg",
+                "women/women2img2.jpg",
+                "women/women2img3.jpg",
+                "women/women2img4.jpg"
+            ],
+            "link": "https://www.biba.in/kurtas/women-blue-white-printed-kurta/23456789",
+            "name": "Biba Women Blue & White Printed Kurta",
+            "price": 1299
+        },
+        {
+            "description": "A flowy midi dress in a soft pink color with a V-neck and short sleeves. Perfect for casual and semi-formal occasions.",
+            "images": [
+                "women/women3img1.jpg",
+                "women/women3img2.jpg",
+                "women/women3img3.jpg",
+                "women/women3img4.jpg"
+            ],
+            "link": "https://www.zara.com/in/en/women-pink-flowy-midi-dress/34567890.html",
+            "name": "Zara Women Pink Flowy Midi Dress",
+            "price": 2499
+        },
+        {
+            "description": "Navy blue printed palazzo pants made from breathable cotton fabric. Elasticated waist for a perfect fit.",
+            "images": [
+                "women/women4img1.jpg",
+                "women/women4img2.jpg",
+                "women/women4img3.jpg",
+                "women/women4img4.jpg"
+            ],
+            "link": "https://www.wforwomen.com/navy-blue-printed-palazzo/12345678",
+            "name": "W for Women Navy Blue Printed Palazzo",
+            "price": 899
+        },
+        {
+            "description": "Black solid jeggings with a stretchable fit for maximum comfort. Made from a blend of cotton and elastane.",
+            "images": [
+                "women/women5img1.jpg",
+                "women/women5img2.jpg",
+                "women/women5img3.jpg",
+                "women/women5img4.jpg"
+            ],
+            "link": "https://www.only.com/women-black-solid-jeggings/34567890",
+            "name": "Only Women Black Solid Jeggings",
+            "price": 1499
+        },
+        {
+            "description": "Elegant red maxi dress with a flared hemline and sleeveless design. Made from lightweight fabric perfect for evening wear.",
+            "images": [
+                "women/women6img1.jpg",
+                "women/women6img2.jpg",
+                "women/women6img3.jpg",
+                "women/women6img4.jpg"
+            ],
+            "link": "https://www.andindia.com/red-maxi-dress/45678901",
+            "name": "AND Women Red Maxi Dress",
+            "price": 3299
+        },
+        {
+            "description": "White straight cotton kurta with a round neck and three-quarter sleeves. Simple yet elegant, perfect for daily wear.",
+            "images": [
+                "women/women7img1.jpg",
+                "women/women7img2.jpg",
+                "women/women7img3.jpg",
+                "women/women7img4.jpg"
+            ],
+            "link": "https://www.fabindia.com/women-white-cotton-kurta/23456789",
+            "name": "Fabindia Women White Cotton Kurta",
+            "price": 1599
+        },
+        {
+            "description": "Black bodycon mini dress with a sleeveless design, perfect for a night out. Stretchable fabric for a snug fit.",
+            "images": [
+                "women/women8img1.jpg",
+                "women/women8img2.jpg",
+                "women/women8img3.jpg",
+                "women/women8img4.jpg"
+            ],
+            "link": "https://www.forever21.in/women-black-bodycon-dress/56789012",
+            "name": "Forever 21 Women Black Bodycon Dress",
+            "price": 1299
+        },
+        {
+            "description": "Gear up for an adventurous weekend getaway with the HRX Women's Outdoor Trousers. The Rapid Dry and Anti Microbial technology enhanced fabric keeps you cool and comfortable while the convertible cargo design makes them extremely versatile.",
+            "images": [
+                "women/women9img1.jpg",
+                "women/women9img2.jpg",
+                "women/women9img3.jpg",
+                "women/women9img4.jpg"
+            ],
+            "link": "https://www.myntra.com/trousers/hrx-by-hrithik-roshan/hrx-by-hrithik-roshan-outdoor-women-winter-moss-convertable-solid-trousers/14701706/buy",
+            "name": "HRX By Hrithik Roshan Outdoor Women Winter Moss Convertable Solid Trousers",
+            "price": 2999
+        },
+        {
+            "description": "Ribbed crop top in a soft cotton blend, designed for a close fit. Perfect for layering or wearing alone.",
+            "images": [
+                "women/women10img1.jpg",
+                "women/women10img2.jpg",
+                "women/women10img3.jpg",
+                "women/women10img4.jpg"
+            ],
+            "link": "https://www.hm.com/women-ribbed-crop-top/89012345",
+            "name": "H&M Women Ribbed Crop Top",
+            "price": 799
+        },
+        {
+            "description": "Navy blue A-line skirt with a zip closure. Made from a cotton-polyester blend for comfort and durability.",
+            "images": [
+                "women/women11img1.jpg",
+                "women/women11img2.jpg",
+                "women/women11img3.jpg",
+                "women/women11img4.jpg"
+            ],
+            "link": "https://www.veromoda.in/women-navy-blue-a-line-skirt/90123456",
+            "name": "Vero Moda Women Navy Blue A-Line Skirt",
+            "price": 1199
+        },
+        {
+            "description": "Pink lace bra with adjustable straps and soft cups for all-day comfort.",
+            "images": [
+                "women/women12img1.jpg",
+                "women/women12img2.jpg",
+                "women/women12img3.jpg",
+                "women/women12img4.jpg"
+            ],
+            "link": "https://www.zivame.com/women-pink-lace-bra/56789012",
+            "name": "Zivame Women Pink Lace Bra",
+            "price": 699
+        },
+        {
+            "description": "Beige trench coat with a classic double-breasted design. Perfect for transitional weather.",
+            "images": [
+                "women/women13img1.jpg",
+                "women/women13img2.jpg",
+                "women/women13img3.jpg",
+                "women/women13img4.jpg"
+            ],
+            "link": "https://shop.mango.com/women-beige-trench-coat/45678901",
+            "name": "Mango Women Beige Trench Coat",
+            "price": 3999
+        },
+        {
+            "description": "Bright red Anarkali with intricate detailing, three-quarter sleeves, and a round neckline. Made from soft cotton fabric.",
+            "images": [
+                "women/women14img1.jpg",
+                "women/women14img2.jpg",
+                "women/women14img3.jpg",
+                "women/women14img4.jpg"
+            ],
+            "link": "https://www.pantaloons.com/women-red-anarkali/67890123",
+            "name": "Pantaloons Women Red Anarkali",
+            "price": 1999
+        },
+        {
+            "description": "Green straight-leg pants with an elastic waistband. Made from lightweight cotton for comfort.",
+            "images": [
+                "women/women15img1.jpg",
+                "women/women15img2.jpg",
+                "women/women15img3.jpg",
+                "women/women15img4.jpg"
+            ],
+            "link": "https://www.ajio.com/women-green-straight-pants/34567890",
+            "name": "Ajio Women Green Straight Pants",
+            "price": 699
+        },
+        {
+            "description": "Maroon pleated skirt with a high-waist design. Made from soft polyester fabric.",
+            "images": [
+                "women/women16img1.jpg",
+                "women/women16img2.jpg",
+                "women/women16img3.jpg",
+                "women/women16img4.jpg"
+            ],
+            "link": "https://www.fablestreet.com/women-maroon-pleated-skirt/78901234",
+            "name": "FableStreet Women Maroon Pleated Skirt",
+            "price": 1299
+        },
+        {
+            "description": "Classic blue denim jacket with button-down closure and two front pockets.",
+            "images": [
+                "women/women17img1.jpg",
+                "women/women17img2.jpg",
+                "women/women17img3.jpg",
+                "women/women17img4.jpg"
+            ],
+            "link": "https://www.levi.com/women-blue-denim-jacket/89012345",
+            "name": "Levi's Women Blue Denim Jacket",
+            "price": 2499
+        },
+        {
+            "description": "Yellow printed tunic with three-quarter sleeves and a relaxed fit. Made from breathable cotton.",
+            "images": [
+                "women/women18img1.jpg",
+                "women/women18img2.jpg",
+                "women/women18img3.jpg",
+                "women/women18img4.jpg"
+            ],
+            "link": "https://www.globaldesi.com/women-yellow-printed-tunic/90123456",
+            "name": "Global Desi Women Yellow Printed Tunic",
+            "price": 1099
+        },
+        {
+            "description": "Grey ribbed cardigan with long sleeves and a front button closure. Made from soft cotton blend fabric.",
+            "images": [
+                "women/women19img1.jpg",
+                "women/women19img2.jpg",
+                "women/women19img3.jpg",
+                "women/women19img4.jpg"
+            ],
+            "link": "https://www.hm.com/women-grey-ribbed-cardigan/23456789",
+            "name": "H&M Women Grey Ribbed Cardigan",
+            "price": 1499
+        },
+        {
+            "description": "White and black striped shirt with a collar and full sleeves. Made from cotton fabric, perfect for office wear.",
+            "images": [
+                "women/women20img1.jpg",
+                "women/women20img2.jpg",
+                "women/women20img3.jpg",
+                "women/women20img4.jpg"
+            ],
+            "link": "https://www.zara.com/in/en/women-white-striped-shirt/34567890.html",
+            "name": "Zara Women White Striped Shirt",
+            "price": 1599
+        }
+    ]
+}
