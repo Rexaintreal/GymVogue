@@ -73,14 +73,15 @@ def mens():
 @app.route('/women', methods=['GET'])
 def womens():
     sort_by = request.args.get('sort_by')
-    womens = womens_data['women']
+    womens = womens_data['women']  
 
     if sort_by == 'low_to_high':
-        womens = sorted(mens, key=lambda x: x['price'])
+        womens = sorted(womens, key=lambda x: x['price'])  # Correct variable used here
     elif sort_by == 'high_to_low':
-        womens = sorted(mens, key=lambda x: x['price'], reverse=True)
+        womens = sorted(womens, key=lambda x: x['price'], reverse=True)  # Correct variable used here
 
     return render_template('women.html', womens=womens)
+
 
 @app.route('/dufflebags', methods=['GET'])
 def dufflebags():
